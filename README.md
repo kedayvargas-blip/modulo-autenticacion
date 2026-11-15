@@ -12,4 +12,4 @@ Para probar el inicio de sesión directamente sin necesidad de crear una cuenta 
 * **Usuario:** `adminclaro`
 * **Contraseña:** `Claro2026*`
 
-*(Nota: También puede utilizar la opción **"Regístrate aquí"** en la interfaz para crear nuevos usuarios e iniciar sesión con ellos).*
+*(También puede utilizar la opción **"Regístrate aquí"** en la interfaz para crear nuevos usuarios e iniciar sesión con ellos).*
